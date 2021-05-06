@@ -1,1 +1,5 @@
-Ceci est un fichier '.txt' modifié depuis le serveur distant git
+• Ceci est un fichier '.txt' modifié depuis le serveur distant git.
+• Ceci est un paragraphe ajouter à 'test.txt' depuis la branche 'modifContenu' : 
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam...
+• A partir d'ici, j'apporte des modification supplémenataire depuis une autre branche 'modifNouveauContenu' :
+ Loin, très loin, au delà des monts Mots, à mille lieues des pays Voyellie et Consonnia, demeurent les Bolos Bolos.
